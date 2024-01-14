@@ -236,7 +236,7 @@
     
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
     .footer, .box{
     display: flex;
     flex-direction: column;
@@ -281,7 +281,7 @@
 
 
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 600px) {
     .collapse {
         display: flex;
     flex-direction: column;
